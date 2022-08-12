@@ -1,0 +1,17 @@
+{
+  "name": "sst-bug",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "@tsconfig/node16": "^1.0.3",
+    "vitest": "^0.21.1"
+  },
+  "workspaces": [
+    "services",
+    "stacks"
+  ]
+}

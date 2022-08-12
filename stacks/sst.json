@@ -1,0 +1,5 @@
+{
+  "name": "sst-bug",
+  "region": "us-east-1",
+  "main": "index.js"
+}
